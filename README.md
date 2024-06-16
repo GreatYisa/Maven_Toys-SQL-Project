@@ -16,5 +16,5 @@
 ### Technology used
   - MySQL
   
-### Dashboard Summary
-![Queries image](https://github.com/GreatYisa/SQL-Marven_Toys-Analytics"C:\Users\wasiu\OneDrive\Pictures\Screenshots\Screenshot 2024-06-16 151828.png")
+### Queries Summary
+![Queries image](https://github.com/GreatYisa/Maven_Toys-SQL-Project/assets/132293290/544ff474-6b57-4e2e-b966-a2e530e057e0)
