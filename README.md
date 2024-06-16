@@ -17,4 +17,4 @@
   - MySQL
   
 ### Dashboard Summary
-![Queries image]("C:\Users\wasiu\OneDrive\Pictures\Screenshots\Screenshot 2024-06-16 151828.png")
+![Queries image](https://github.com/GreatYisa/SQL-Marven_Toys-Analytics"C:\Users\wasiu\OneDrive\Pictures\Screenshots\Screenshot 2024-06-16 151828.png")
