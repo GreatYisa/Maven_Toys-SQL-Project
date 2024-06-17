@@ -19,3 +19,6 @@
   
 ### Queries Summary
 ![Queries image](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/images/Screenshot%202024-06-17%20114249.png)
+
+### Dataset Used:
+[Dataset](https://github.com/GreatYisa/Power-BI-BG-Sales-Report/blob/main/BG%20Sales%20Data%20(1).xlsx)
