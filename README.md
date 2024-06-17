@@ -21,7 +21,7 @@
 ![Queries image](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/images/Screenshot%202024-06-17%20114249.png)
 
 ### Dataset Used:
-[Dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/stores_stores.csv)
-[Dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/products_products.csv)
-[Dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/sales.csv)
-[Dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/inventory_inventory.csv)
+[Stores dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/stores_stores.csv)
+[Product dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/products_products.csv)
+[Sales dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/sales.csv)
+[Inventory dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/inventory_inventory.csv)
