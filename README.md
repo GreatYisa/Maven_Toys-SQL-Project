@@ -1,5 +1,3 @@
-### Project 3: Maven_Toys Analytics
-
 # [Marven_Toys-Analytics](https://github.com/GreatYisa/Maven_Toys-SQL-Project)
 
 ### Project Description
