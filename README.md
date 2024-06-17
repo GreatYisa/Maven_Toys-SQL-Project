@@ -17,4 +17,4 @@
   - MySQL
   
 ### Queries Summary
-![Queries image]()
+![Queries image](https://github.com/GreatYisa/Maven_Toys-SQL-Project/assets/132293290/5e782ee3-d963-4ce3-ab6b-06f3cc5695b3)
