@@ -23,4 +23,5 @@
 ### Dataset Used:
 [Dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/stores_stores.csv)
 [Dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/products_products.csv)
+[Dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/sales.csv)
 [Dataset](
