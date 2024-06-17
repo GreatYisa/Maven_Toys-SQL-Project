@@ -14,7 +14,8 @@
   3. Are Salesbeing lost with Out-of-stock products at certain locations ?
 
 ### Technology used
-  - MySQL
+  - MySQL DBMS
+  - SQL
   
 ### Queries Summary
 ![Queries image](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/images/Screenshot%202024-06-17%20114249.png)
